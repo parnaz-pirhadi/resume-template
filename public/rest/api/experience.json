@@ -1,0 +1,117 @@
+{
+    "title": "Experience",
+    "history": 
+      {
+        "title": "Work Experience",
+        "list": [
+          {
+            "subject": "Magnet Ad services-Hassin Company",
+            "date":"2019 to now",
+            "icon": "./images/magnet.png",
+            "position":"my position in Magnet Ad services is Front-End developer with react js and UX researcher and design wireframe based on best flow for users.",
+
+            "dataList": [
+            
+              {
+                "text": "Proficient in developing Single Page Applications(SPA) using JavaScript MVC framework such as React JS."
+              },
+              {
+                "text": "UX Researcher."
+              },
+              {
+                "text": "creation wireframes and process maps using Balsamiq and adobe xd."
+              },
+              {
+                "text": "Work cohesively with other talented developers in a positive, team environment."
+              },
+              {
+                "text": "Develop and maintain applications using standard development tools."
+              },
+              {
+                "text":"Online Projects: https://admin.s-peak.ir/ , https://s-peak.ir/ .  These projects have been developed by react js."
+              }
+            ]
+          },
+  
+          {
+            "subject": "Ansar Information of Technology Co",
+            "date":"2017 to 2019",
+            "icon": "./images/ansar.png",
+            "position":"my position in Ansar Information of Technology Co was Front-End developer with angular js and angular 2 and Mentored new team members .",
+
+            "dataList": [
+            
+              
+              {
+                "text": "Developed many banking projects with angularjs & angular2."
+              },
+              {
+                "text": "Work with senior developer to develop a large scale angular2 framework & Created custom Angular2 components for internal framework."
+              },
+              {
+                "text": "Hands on experience in Responsive Design and Media Queries."
+              },
+              {
+                "text": "working with team members for resolving front end CSS issues & Trained 2 interns on HTML5 , CSS3 , Angular ,Sass , Bootsrap ,Typescript."
+              },
+              {
+                "text": "Collaborated with team on implementing new features and UX in an Agile environment."
+              },
+              {
+                "text": "Trained Scrum methodology to team members."
+              },
+              {
+                "text": "Mentored new team members."
+              },
+              {
+                "text": "Online Project: https://mahersan.ansarbank.ir/ . This project have been developed by angular2."
+              }
+            ]
+          },
+          {
+            "subject": "IranDoc",
+            "date":"2016 to 2017",
+            "icon": "./images/irandoc.jpg",
+            "position":"my position in Iranian Research Institute for Information Science and Technology full stack developer.",
+
+            "dataList": [
+              
+
+              {
+                "text": ".Net Developer."
+              },
+              {
+                "text": "Front end Developer using HTML5 , CSS3 , JavaScript , jQuery."
+              },
+              {
+                "text": "Design DataBase Using Sql."
+              },
+              {
+                "text":"Online Project : http://www.cinemadoc.ir/"
+              }
+            ]
+          },
+          {
+            "subject": "Modir Info",
+            "date":"2014 to 2015",
+            "icon": "./images/modirinfo.jpg",
+
+        
+            "dataList": [
+             
+              {
+                "text": "Front end Developer at Modir Info ."
+              },
+              {
+                "text": "Developed Plugin using HTML , CSS , Bootstrap , JavaScript , jQuery. "
+              },
+              {
+                "text":"Online Project : http://www.modirinfo.com/ . This project have been developed by .net language and MVC framework."
+              }
+            ]
+          }
+        ]
+      }
+
+  }
+  

@@ -1,0 +1,33 @@
+{
+    "title": "Features",
+    "expertises": [
+      {
+        "title":"Curiosity"
+      },
+      {
+        "title":"Love of learning"
+      },
+      {
+        "title":"Adaptability"
+      },
+  
+          {
+            "title": "Analyse Problem",
+            "description":"yes"
+          },
+          {
+            "title": "Technical skills",
+            "description":"yes"
+
+          },
+      
+          {
+            "title": "Communication skills",
+            "description":"yes"
+
+          }
+        
+      
+    ]
+  }
+  
