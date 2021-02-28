@@ -3,21 +3,21 @@
     "skills": [
       {
         "title": "JavaScript",
-        "value":85
+        "value":90
       },
       
           {
             "title": "Reactjs",
-            "value":85
+            "value":90
           },
           {
             "title": "Redux",
-            "value":80
+            "value":85
           },
         
           {
             "title": "ES6",
-            "value":75
+            "value":85
           },
         
           {
@@ -26,36 +26,37 @@
           },
           {
             "title": "CSS3",
-            "value":90
+            "value":70
           },
           
           {
             "title": "SASS",
-            "value":85
+            "value":70
           },
           {
             "title": "Responsive Design",
-            "value":80
-          },
-          {
-            "title": "UX Prototyping",
-            "value":95
+            "value":70
           },
           {
             "title": "UX Researching",
-            "value":80
+            "value":90
           },
           {
-            "title": "Wordpress",
-            "value":80
-          },
-          {
-            "title": "Git",
-            "value":70
+            "title": "UX Prototyping",
+            "value":85
           },
           {
             "title": "Scrum",
             "value":90
+          }
+          ,
+          {
+            "title": "Wordpress",
+            "value":70
+          },
+          {
+            "title": "Git",
+            "value":70
           }
         ]
   }
