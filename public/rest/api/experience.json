@@ -1,105 +1,122 @@
 {
-    "title": "Experience",
-    "history": 
+  "title": "Experience",
+  "history": {
+    "title": "Work Experience",
+    "list": [
       {
-        "title": "Work Experience",
-        "list": [
+        "subject": "TOSAN , banking and payment solutions provider",
+        "date": "2021 to now",
+        "icon": "./images/magnet.png",
+        "position": "my position in TOSAN is full stack developer",
+        "dataList": [
           {
-            "subject": "Magnet Ad services-Hassin Company",
-            "date":"2019 to now",
-            "icon": "./images/magnet.png",
-            "position":"my position in Magnet Ad services is Front-End developer with react js and UX researcher and design wireframe based on best flow for users.",
-
-            "dataList": [
-            
-              {
-                "text": "Proficient in developing Single Page Applications(SPA) using JavaScript MVC framework such as React JS."
-              },
-              {
-                "text": "UX Researcher."
-              },
-              {
-                "text": "creation wireframes and process maps using Balsamiq and adobe xd."
-              },
-              {
-                "text": "Work cohesively with other talented developers in a positive, team environment."
-              },
-              {
-                "text": "Develop and maintain applications using standard development tools."
-              }
-            ]
-          },
-  
-          {
-            "subject": "Ansar Information of Technology Co",
-            "date":"2017 to 2019",
-            "icon": "./images/ansar.png",
-            "position":"my position in Ansar Information of Technology Co was Front-End developer with angular js and angular 2 and Mentored new team members .",
-
-            "dataList": [
-            
-              
-              {
-                "text": "Developed many banking projects with angularjs & angular2."
-              },
-              {
-                "text": "Work with senior developer to develop a large scale angular2 framework & Created custom Angular2 components for internal framework."
-              },
-              {
-                "text": "Hands on experience in Responsive Design and Media Queries."
-              },
-              {
-                "text": "working with team members for resolving front end CSS issues & Trained 2 interns on HTML5 , CSS3 , Angular ,Sass , Bootsrap ,Typescript."
-              },
-              {
-                "text": "Collaborated with team on implementing new features and UX in an Agile environment."
-              },
-              {
-                "text": "Trained Scrum methodology to team members."
-              },
-              {
-                "text": "Mentored new team members."
-              }
-            ]
+            "text": "Experience in using  ReactJS to Designing and developing a big progressive web application (PWA) To manage ATMs, so the physical presence of supervisors is no longer needed to solve ATM errors and needs . I manage state of this application with Redux and try to have clean and reusable high order components . Also i used hooks to have an optimized application."
           },
           {
-            "subject": "IranDoc",
-            "date":"2016 to 2017",
-            "icon": "./images/irandoc.jpg",
-            "position":"my position in Iranian Research Institute for Information Science and Technology full stack developer.",
-
-            "dataList": [
-              
-
-              {
-                "text": ".Net Developer."
-              },
-              {
-                "text": "Front end Developer using HTML5 , CSS3 , JavaScript , jQuery."
-              },
-              {
-                "text": "Design DataBase Using Sql."
-              }
-            ]
+            "text": "Good knowledge of API, Rest API and Authentication Method (for example JWT)."
           },
           {
-            "subject": "Modir Info",
-            "date":"2014 to 2015",
-            "icon": "./images/modirinfo.jpg",
-
-        
-            "dataList": [
-             
-              {
-                "text": "Front end Developer at Modir Info ."
-              },
-              {
-                "text": "Developed Plugin using HTML , CSS , Bootstrap , JavaScript , jQuery. "
-              }
-            ]
+            "text": "Setting up a Nodejs server to connect the application to handle requests and responses sent from another server."
+          },
+          {
+            "text": "designing  a big log system  based on IPs of each user."
+          },
+          {
+            "text": "This server reads the main variables from the configuration file outside the program, makes a request to the configuration file and reads the data in an encoded form, the data is decoded in the server and the server is set based on these configurations."
+          },
+          {
+            "text": "Extensively used CSS in styled- components and bootstrap for styling the pages."
+          },
+          {
+            "text": "Responsible to attend daily scrum and share the sprint's work status."
+          },
+          {
+            "text": "Mentored new team members."
+          }
+        ]
+      },
+      {
+        "subject": "Magnet Ad services-Hassin Company",
+        "date": "2019 to now",
+        "icon": "./images/magnet.png",
+        "position": "my position in Magnet Ad services is Front-End developer with react js and UX researcher and design wireframe based on best flow for users.",
+        "dataList": [
+          {
+            "text": "Proficient in developing Single Page Applications(SPA) using JavaScript MVC framework such as React JS . Proficient in create reusable components and implementing them following well-known React.js workflows (such as Flux or Redux)."
+          },
+          {
+            "text": "UX Researcher and design wireframe based on best flow for users."
+          },
+          {
+            "text": "Creation wireframes and process maps using Balsamiq and adobe xd."
+          },
+          {
+            "text": "Collaborating with an Agile team who use Scrum as their methodology of software. development. Collaborating with back-end team and web designers to implement the features with stability."
+          },
+          {
+            "text": "Work cohesively with other talented developers in a positive, team environment to solve problems."
+          }
+        ]
+      },
+      {
+        "subject": "Ansar Information of Technology Co",
+        "date": "2017 to 2019",
+        "icon": "./images/ansar.png",
+        "position": "my position in Ansar Information of Technology Co was Front-End developer with angular js and angular 2 and Mentored new team members .",
+        "dataList": [
+          {
+            "text": "Developed many banking projects with angularjs & angular2."
+          },
+          {
+            "text": "Work with senior developer to develop a large scale angular2 framework & Created custom Angular2 components for internal framework."
+          },
+          {
+            "text": "Hands on experience in Responsive Design and Media Queries."
+          },
+          {
+            "text": "working with team members for resolving front end CSS issues & Trained 2 interns on HTML5 , CSS3 , Angular ,Sass , Bootsrap ,Typescript."
+          },
+          {
+            "text": "Collaborated with team on implementing new features and UX in an Agile environment."
+          },
+          {
+            "text": "Trained Scrum methodology to team members."
+          },
+          {
+            "text": "Mentored new team members."
+          }
+        ]
+      },
+      {
+        "subject": "IranDoc",
+        "date": "2016 to 2017",
+        "icon": "./images/irandoc.jpg",
+        "position": "my position in Iranian Research Institute for Information Science and Technology full stack developer.",
+        "dataList": [
+          {
+            "text": ".Net Developer."
+          },
+          {
+            "text": "Front end Developer using HTML5 , CSS3 , JavaScript , jQuery."
+          },
+          {
+            "text": "Design DataBase Using Sql."
+          }
+        ]
+      },
+      {
+        "subject": "Modir Info",
+        "date": "2014 to 2015",
+        "icon": "./images/modirinfo.jpg",
+        "dataList": [
+          {
+            "text": "Front end Developer at Modir Info ."
+          },
+          {
+            "text": "Developed Plugin using HTML , CSS , Bootstrap , JavaScript , jQuery. "
           }
         ]
       }
-
+    ]
   }
-  
+}

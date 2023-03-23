@@ -22,7 +22,7 @@ class Landing extends React.Component {
         <LeftSideBar />
         <div className="right-col-block blocks">
           <About/>
-          <Expertise/>
+          {/*<Expertise/>*/}
           <Skills/>
           <Experience/>
           <Education/>

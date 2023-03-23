@@ -27,7 +27,7 @@ class Experience extends React.Component {
     const { loading ,experienceData} = this.state;
     return (
         <div>
-       <section class="section-wrapper section-experience gray-bg">
+       <section class="section-wrapper section-experience">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
@@ -54,15 +54,15 @@ class Experience extends React.Component {
                 </div>
                     );
                 })}
-                
-               
+
+
             </div>
         </div>
     </div>
 
 </section>
 
-    
+
     </div>
     );
   }
@@ -70,7 +70,7 @@ class Experience extends React.Component {
 function mapStateToProps  (storeState) {
     return {
         experienceReducer: storeState.experienceReducer
-    
+
     };
   }
 function mapDispatchToProps (dispatch) {

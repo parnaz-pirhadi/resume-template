@@ -28,7 +28,7 @@ class Education extends React.Component {
     return (
         <div>
 
-<section class="section-wrapper section-education">
+<section class="section-wrapper section-education gray-bg">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
@@ -44,14 +44,14 @@ class Education extends React.Component {
 
     <p>{educationData.location}</p>
                 </div>
-            
-     
+
+
             </div>
         </div>
     </div>
 
 </section>
-    
+
     </div>
     );
   }
@@ -59,7 +59,7 @@ class Education extends React.Component {
 function mapStateToProps  (storeState) {
     return {
         educationReducer: storeState.educationReducer
-    
+
     };
   }
 function mapDispatchToProps (dispatch) {

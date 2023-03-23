@@ -1,63 +1,61 @@
 {
-    "title": "Skills",
-    "skills": [
-      {
-        "title": "JavaScript",
-        "value":90
-      },
-      
-          {
-            "title": "Reactjs",
-            "value":90
-          },
-          {
-            "title": "Redux",
-            "value":85
-          },
-        
-          {
-            "title": "ES6",
-            "value":85
-          },
-        
-          {
-            "title": "HTML5",
-            "value":90
-          },
-          {
-            "title": "CSS3",
-            "value":70
-          },
-          
-          {
-            "title": "SASS",
-            "value":70
-          },
-          {
-            "title": "Responsive Design",
-            "value":70
-          },
-          {
-            "title": "UX Researching",
-            "value":90
-          },
-          {
-            "title": "UX Prototyping",
-            "value":85
-          },
-          {
-            "title": "Scrum",
-            "value":90
-          }
-          ,
-          {
-            "title": "Wordpress",
-            "value":70
-          },
-          {
-            "title": "Git",
-            "value":70
-          }
-        ]
-  }
-  
+  "title": "Skills",
+  "skills": [
+    {
+      "title": "JavaScript , ",
+      "value": 90
+    },
+    {
+      "title": "ES6 , ",
+      "value": 90
+    },
+    {
+      "title": "Reactjs , ",
+      "value": 90
+    },
+    {
+      "title": "Redux , ",
+      "value": 90
+    },
+    {
+      "title": "React Hooks , ",
+      "value": 90
+    },
+    {
+      "title": "Nodejs , ",
+      "value": 90
+    },
+    {
+      "title": "Express Js , ",
+      "value": 90
+    },
+    {
+      "title": "HTML5 , ",
+      "value": 90
+    },
+    {
+      "title": "CSS3 , ",
+      "value": 90
+    },
+    {
+      "title": "SASS , ",
+      "value": 90
+    },
+    {
+      "title": "Responsive Design , ",
+      "value": 90
+    },
+    {
+      "title": "Scrum , ",
+      "value": 90
+    },
+    {
+      "title": "Git , ",
+      "value": 85
+    },
+    {
+      "title": "Wordpress",
+      "value": 70
+    }
+  ]
+}
