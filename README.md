@@ -1,3 +1,4 @@
+the basic but smooth and beautiful resume template you can show your expertise to other
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
